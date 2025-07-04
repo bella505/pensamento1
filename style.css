@@ -8,4 +8,9 @@ header {
     border-bottom: solid 2px white;
     padding: 20px;
     font-size: 32px;
+
+}
+
+section {
+   background: blanchedalmond;
 }
